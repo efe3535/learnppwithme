@@ -1,0 +1,3 @@
+C:/Users/furuk/Desktop/C++ Kodlar/1-Degiskenler/cmake-build-debug/CMakeFiles/1_Degiskenler.dir
+C:/Users/furuk/Desktop/C++ Kodlar/1-Degiskenler/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/furuk/Desktop/C++ Kodlar/1-Degiskenler/cmake-build-debug/CMakeFiles/rebuild_cache.dir

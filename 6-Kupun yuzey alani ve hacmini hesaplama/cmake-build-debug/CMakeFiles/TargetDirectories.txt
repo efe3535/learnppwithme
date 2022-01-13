@@ -1,0 +1,3 @@
+C:/Users/furuk/Desktop/C++ Kodlar/6-Kupun yuzey alani ve hacmini hesaplama/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/furuk/Desktop/C++ Kodlar/6-Kupun yuzey alani ve hacmini hesaplama/cmake-build-debug/CMakeFiles/6_Kupun_yuzey_alani_ve_hacmini_hesaplama.dir
+C:/Users/furuk/Desktop/C++ Kodlar/6-Kupun yuzey alani ve hacmini hesaplama/cmake-build-debug/CMakeFiles/edit_cache.dir

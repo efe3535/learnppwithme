@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "4_Karenin_alani_ve_cevresini_hesaplama",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "4_Karenin_alani_ve_cevresini_hesaplama::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4_Karenin_alani_ve_cevresini_hesaplama-Debug-e95bb0d806dd08742020.json",
+					"name" : "4_Karenin_alani_ve_cevresini_hesaplama",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/furuk/Desktop/C++ Kodlar/4-Karenin alani ve cevresini hesaplama/cmake-build-debug",
+		"source" : "C:/Users/furuk/Desktop/C++ Kodlar/4-Karenin alani ve cevresini hesaplama"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
