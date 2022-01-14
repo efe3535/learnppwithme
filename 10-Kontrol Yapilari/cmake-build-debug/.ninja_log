@@ -1,0 +1,12 @@
+# ninja log v5
+3	181	6638858487861528	build.ninja	3673a056892fc515
+0	445	6638858492620683	CMakeFiles/10_Kontrol_Yapilari.dir/main.cpp.obj	c8a8825c13bef312
+448	655	6638858494735028	10_Kontrol_Yapilari.exe	25d9190211c6f68a
+4	417	6638859259189929	CMakeFiles/10_Kontrol_Yapilari.dir/main.cpp.obj	c8a8825c13bef312
+418	603	6638859261035008	10_Kontrol_Yapilari.exe	25d9190211c6f68a
+5	389	6638881576480586	CMakeFiles/10_Kontrol_Yapilari.dir/main.cpp.obj	c8a8825c13bef312
+390	562	6638881578172640	10_Kontrol_Yapilari.exe	25d9190211c6f68a
+5	431	6638881747299144	CMakeFiles/10_Kontrol_Yapilari.dir/main.cpp.obj	c8a8825c13bef312
+432	588	6638881748831969	10_Kontrol_Yapilari.exe	25d9190211c6f68a
+3	383	6638882792796870	CMakeFiles/10_Kontrol_Yapilari.dir/main.cpp.obj	c8a8825c13bef312
+383	559	6638882794396882	10_Kontrol_Yapilari.exe	25d9190211c6f68a
