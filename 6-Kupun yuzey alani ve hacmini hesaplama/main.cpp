@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 #include <locale.h>
 using namespace std;
 
@@ -6,8 +7,8 @@ int main() {
     setlocale(LC_ALL, "Turkish");
     float kupunBirKenari;
 
-    cout << "Lütfen küpün bir kenarýný girin"<<endl;
+    cout << "LÃ¼tfen kÃ¼pÃ¼n bir kenarÄ±nÄ± girin"<<endl;
     cin >> kupunBirKenari;
-    cout << "Küpün bir hacmi:" << kupunBirKenari * kupunBirKenari * kupunBirKenari <<endl<<"Küpün yüzeylerinin toplam alaný:"<< 6 * kupunBirKenari * kupunBirKenari <<endl;
+    cout << "KÃ¼pÃ¼n bir hacmi:" <<pow(kupunBirKenari,3) <<endl <<"KÃ¼pÃ¼n yÃ¼zeylerinin toplam alanÄ±:" <<6 * pow(kupunBirKenari,2) <<endl;
 
 }
